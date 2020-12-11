@@ -142,7 +142,7 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`id`, `name`, `email`, `password`, `role`, `status`, `profession`) VALUES
 (1, 'Jass', 'g@mail.com', '123456', 'admin', 0, 'Web Developer'),
-(2, 'Harry', 'kamransogukpinar@gmail.com', '*1Kamuran', 'admin', 0, 'Web Developer'),
+(2, 'Harry', 'kamransogukpinar@gmail.com', '*123456', 'admin', 0, 'Web Developer'),
 (3, 'Martin', 'ss@gmail.com', '1234567', 'user', 0, 'Web Developer');
 
 --
